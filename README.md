@@ -21,6 +21,9 @@ The goal is to identify valuable customers, understand sales performance, segmen
 
 ## Dashboard
 The Power BI dashboard provides an overview of revenue, orders, customers, product performance and customer segments.
+### Dashboard Overview
+
+![Customer Intelligence Dashboard](dashboard_overview.png)
 
 ## Files
 - `Customer_analysis.sql` – SQL analysis
